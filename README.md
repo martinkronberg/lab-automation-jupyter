@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+# Writing a Rule based IoT Automation System in Python
 
-You can use the [editor on GitHub](https://github.com/SSG-DRD-IOT/lab-automation-jupyter/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This lab has already been installed and configured as a Jupyter Notebook on your Up2 Board.  If you don't have it then you can simple clone this repository to your Up2.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+To access the lab, use the following instructions:
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SSG-DRD-IOT/lab-automation-jupyter/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. Open your browser on your development computer and type into the address bar the IP address of your Up2 board and the port number 8888, like this http://192.168.1.1:8888
+2. You should see the root directory of your Up2 board. Navigate to /home/upsquared/Desktop/lab-answers/lab-automation-jupyter.
+3. Click on the automation.ipynb file.
+4. You can step through the lab and execute the code by pressing SHIFT-ENTER.
