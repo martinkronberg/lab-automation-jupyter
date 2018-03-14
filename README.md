@@ -5,6 +5,7 @@ This lab has already been installed and configured as a Jupyter Notebook on your
 To access the lab, use the following instructions:
 
 1. Open your browser on your development computer and type into the address bar the **IP address of your Up2 board** and the port number 8888, like this http://<your IP address>:8888
-2. You should see the root directory of your Up2 board. Navigate to /home/upsquared/Desktop/lab-answers/lab-automation-jupyter.
-3. Click on the automation.ipynb file.
-4. You can step through the lab and execute the code by pressing SHIFT-ENTER.
+2. use password "upsquared"
+3. You should see the root directory of your Up2 board. Navigate to /home/upsquared/Desktop/lab-answers/lab-automation-jupyter.
+4. Click on the automation.ipynb file.
+5. You can step through the lab and execute the code by pressing SHIFT-ENTER.
